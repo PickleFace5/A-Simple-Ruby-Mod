@@ -1,0 +1,14 @@
+[
+  {
+    "predicate": {
+      "item": "ruby:ruby_sword"
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/ruby"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/ruby"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/ruby"]
+    }
+  }
+]

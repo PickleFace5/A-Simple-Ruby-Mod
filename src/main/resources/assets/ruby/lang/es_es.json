@@ -1,0 +1,25 @@
+{
+  "itemGroup.ruby": "Un simple mod de rubí",
+
+  "item.ruby.ruby": "Rubí",
+  "item.ruby.music_disc_peace_and_tranquility": "Disco de música",
+  "item.ruby.music_disc_peace_and_tranquility.desc": "Pascal Michael Stiefel - Peace and Tranquility",
+  "item.ruby.ruby_charm": "Encanto de rubí",
+
+  "block.ruby.ruby_block": "Bloque de rubí",
+  "block.ruby.ruby_ore": "Mineral de rubí",
+
+  "item.ruby.ruby_sword": "Espada de rubí",
+  "item.ruby.ruby_axe": "Hacha de rubí",
+  "item.ruby.ruby_pickaxe": "Pico de rubí",
+  "item.ruby.ruby_shovel": "Pala de rubí",
+  "item.ruby.ruby_hoe": "Ruby azada",
+
+  "item.ruby.ruby_helmet": "Casco de rubí",
+  "item.ruby.ruby_chestplate": "Peto de rubí",
+  "item.ruby.ruby_leggings": "Calzas de rubí",
+  "item.ruby.ruby_boots": "Botas de rubí",
+  "item.ruby.ruby_horse_armor": "Armadura de caballo rubí",
+
+  "item.ruby.ruby_apple": "§4Manzana rubí"
+}

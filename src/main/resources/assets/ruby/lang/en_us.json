@@ -1,0 +1,25 @@
+{
+  "itemGroup.ruby": "A Simple Ruby Mod",
+
+  "item.ruby.ruby": "Ruby",
+  "item.ruby.music_disc_peace_and_tranquility": "Music Disc",
+  "item.ruby.music_disc_peace_and_tranquility.desc": "Pascal Michael Stiefel - Peace and Tranquility",
+  "item.ruby.ruby_charm": "Ruby Charm",
+
+  "block.ruby.ruby_block": "Block of Ruby",
+  "block.ruby.ruby_ore": "Ruby Ore",
+
+  "item.ruby.ruby_sword": "Ruby Sword",
+  "item.ruby.ruby_axe": "Ruby Axe",
+  "item.ruby.ruby_pickaxe": "Ruby Pickaxe",
+  "item.ruby.ruby_shovel": "Ruby Shovel",
+  "item.ruby.ruby_hoe": "Ruby Hoe",
+
+  "item.ruby.ruby_helmet": "Ruby Helmet",
+  "item.ruby.ruby_chestplate": "Ruby Chestplate",
+  "item.ruby.ruby_leggings": "Ruby Leggings",
+  "item.ruby.ruby_boots": "Ruby Boots",
+  "item.ruby.ruby_horse_armor": "Ruby Horse Armor",
+
+  "item.ruby.ruby_apple": "§4Ruby Apple"
+}

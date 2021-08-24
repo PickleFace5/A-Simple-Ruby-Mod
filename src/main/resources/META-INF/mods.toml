@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)" #mandatory
+
+license="MIT License"
+
+[[mods]] #mandatory
+
+modId="ruby" #mandatory
+
+version="1.5.2" #mandatory
+
+displayName="A Simple Ruby Mod" #mandatory
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/a-simple-ruby-mod" #optional
+
+credits="Made by Pickle_Face5" #optional
+
+authors="Pickle_Face5" #optional
+
+description='''
+This is 'A Simple Ruby Mod'.
+
+Adds a new ore into the game, Rubies. Also adds in other features such as more Music.
+
+Please consider showing this to your friends, as this is one of my best mods so far. It would mean a lot to me :>
+'''

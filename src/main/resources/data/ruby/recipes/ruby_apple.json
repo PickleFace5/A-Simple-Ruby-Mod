@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#a#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ruby:ruby"
+    },
+    "a": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "ruby:ruby_apple"
+  }
+}

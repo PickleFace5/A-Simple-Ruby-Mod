@@ -1,0 +1,25 @@
+{
+  "itemGroup.ruby": "Un mod simple de rubis",
+
+  "item.ruby.ruby": "Rubis",
+  "item.ruby.music_disc_peace_and_tranquility": "Disque de Musique",
+  "item.ruby.music_disc_peace_and_tranquility.desc": "Pascal Michael Stiefel - Peace and Tranquility",
+  "item.ruby.ruby_charm": "Charme rubis",
+
+  "block.ruby.ruby_block": "Bloc de Rubis",
+  "block.ruby.ruby_ore": "Minerai de Rubis",
+
+  "item.ruby.ruby_sword": "Épée rubis",
+  "item.ruby.ruby_axe": "Hache rubis",
+  "item.ruby.ruby_pickaxe": "Pioche rubis",
+  "item.ruby.ruby_shovel": "Pelle rubis",
+  "item.ruby.ruby_hoe": "Houe rubis",
+
+  "item.ruby.ruby_helmet": "Casque Ruby",
+  "item.ruby.ruby_chestplate": "Cuirasse rubis",
+  "item.ruby.ruby_leggings": "Jambières rubis",
+  "item.ruby.ruby_boots": "Bottes Rubis",
+  "item.ruby.ruby_horse_armor": "Armure de Cheval rubis",
+
+  "item.ruby.ruby_apple": "§4Pomme rubis"
+}
