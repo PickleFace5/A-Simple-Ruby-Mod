@@ -25,7 +25,7 @@ import java.util.List;
 public class OreGen {
     @SubscribeEvent
     public static void generateOres(BiomeLoadingEvent event) {
-        ConfiguredFeature<?, ?> ORE_RUBY = Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.BASE_STONE_OVERWORLD, Blocks.AIR.getDefaultState(), 4)).range(16).square();
+        ConfiguredFeature<?, ?> ORE_RUBY = Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.BASE_STONE_OVERWORLD, RegistryHandler.RUBY_ORE.get().getDefaultState(), 4)).range(16).square();
         event.getGeneration().withFeature(GenerationStage.Decoration.UNDERGROUND_ORES, ORE_RUBY);
     }
 }

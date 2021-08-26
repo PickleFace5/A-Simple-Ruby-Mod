@@ -33,21 +33,16 @@ public class RegistryHandler {
 
     public static void init() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-        //ENCHANTS.register(modEventBus);
         SOUNDS.register(modEventBus);
         BLOCKS.register(modEventBus);
         PARTICLES.register(modEventBus);
         ITEMS.register(modEventBus);
     }
 
-    // Enchants
-    //public static final RegistryObject<Enchantment> MORALITY = ENCHANTS.register("morality", Morality::new);
-
     // Items
     public static final RegistryObject<Item> RUBY = ITEMS.register("ruby", RubyItem::new);
     public static final RegistryObject<RubyApple> RUBY_APPLE = ITEMS.register("ruby_apple", RubyApple::new);
     public static final RegistryObject<MusicDiscItem> MUSIC_DISC_P_A_T = ITEMS.register("music_disc_peace_and_tranquility", RubyMusicDisc::new);
-    //public static final RegistryObject<Item> RUBY_CHARM = ITEMS.register("ruby_charm", RubyCharm::new);
 
     // Tools
     public static final RegistryObject<SwordItem> RUBY_SWORD = ITEMS.register("ruby_sword", () ->
