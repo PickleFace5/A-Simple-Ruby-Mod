@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "asimplerubymod:ruby_block",
+    "asimplerubymod:ruby_ore",
+    "asimplerubymod:deepslate_ruby_ore"
+  ]
+}

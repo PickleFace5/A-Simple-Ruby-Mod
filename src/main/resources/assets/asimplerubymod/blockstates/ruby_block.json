@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "asimplerubymod:block/ruby_block" }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "item.asimplerubymod.ruby": "Ruby",
+  "item.asimplerubymod.ruby_sword": "Ruby Sword",
+  "item.asimplerubymod.ruby_axe": "Ruby Axe",
+  "item.asimplerubymod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.asimplerubymod.ruby_shovel": "Ruby Shovel",
+  "item.asimplerubymod.ruby_hoe": "Ruby Hoe",
+  "item.asimplerubymod.ruby_helmet": "Ruby Helmet",
+  "item.asimplerubymod.ruby_chestplate": "Ruby Chestplate",
+  "item.asimplerubymod.ruby_leggings": "Ruby Leggings",
+  "item.asimplerubymod.ruby_boots": "Ruby Boots",
+  "item.asimplerubymod.ruby_horse_armor": "Ruby Horse Armor",
+
+  "block.asimplerubymod.ruby_block": "Block of Ruby",
+  "block.asimplerubymod.ruby_ore": "Ruby Ore",
+  "block.asimplerubymod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "itemGroup.asimplerubymod": "A Simple Ruby Mod"
+}
